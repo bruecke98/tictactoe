@@ -1,0 +1,6 @@
+{
+    "cmake.mingwSearchDirs": [
+        "C:\\TDM-GCC-64\\x86_64-w64-mingw32\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles"
+}

@@ -1,0 +1,397 @@
+[
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\normal_player.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\normal_player.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/normal_player.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\perfect_player.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\perfect_player.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/perfect_player.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\random_player.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\random_player.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/random_player.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\human_player.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\human_player.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/human_player.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\board.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\board.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/board.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\player.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\player.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/player.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\game_controller.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\game_controller.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/game_controller.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tasks.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tasks.dir\\src\\tictactoe.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\tictactoe.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/tictactoe.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tests.dir\\src\\board.test.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\board.test.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/board.test.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tests.dir\\src\\human_player.test.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\human_player.test.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/human_player.test.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tests.dir\\src\\normal_player.test.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\normal_player.test.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/normal_player.test.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tests.dir\\src\\random_player.test.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\random_player.test.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/random_player.test.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tests.dir\\src\\util.test.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\src\\util.test.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/src/util.test.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_automake.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_automake.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_compact.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_compact.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_console.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_console.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_cumulative_base.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_junit.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_junit.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_listening.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_listening.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_listening.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_sonarqube.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_streaming_base.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_tap.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_tap.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_teamcity.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_xml.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\reporters\\catch_reporter_xml.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_approx.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_approx.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_approx.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_assertion_handler.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_assertion_handler.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_assertion_result.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_assertion_result.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_assertion_result.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_clara.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_clara.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_clara.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_commandline.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_commandline.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_common.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_common.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_common.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_config.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_config.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_config.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_console_colour.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_console_colour.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_context.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_context.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_context.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debug_console.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debug_console.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debugger.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_debugger.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enforce.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enforce.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enum_values_registry.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_enum_values_registry.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_exception_translator_registry.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_exception_translator_registry.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_fatal_condition_handler.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/generators/internal/catch_generators_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_list.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_list.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_list.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_floating.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_floating.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_string.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_string.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_templated.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\matchers\\catch_matchers_templated.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_message.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_message.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_message.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_output_redirect.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_output_redirect.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_registry_hub.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_registry_hub.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_registry_hub.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_number_generator.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_random_number_generator.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_registry.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_reporter_registry.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_result_type.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_result_type.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_result_type.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_run_context.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_run_context.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_section.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_section.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_section.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_session.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_session.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_session.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_singletons.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_singletons.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stream.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stream.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_stream.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stringref.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_stringref.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_string_manip.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_string_manip.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_tag_alias_registry.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_tag_alias_registry.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_test_case_info.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_case_info.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_test_case_info.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_registry_impl.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_tracker.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_case_tracker.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_registry.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_registry.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_textflow.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_textflow.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_test_spec.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_test_spec.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_test_spec.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_spec_parser.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_test_spec_parser.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_timer.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_timer.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_timer.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_tostring.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_tostring.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_tostring.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_totals.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_totals.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_totals.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_version.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\catch_version.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/catch_version.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_wildcard_pattern.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_wildcard_pattern.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_xmlwriter.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_xmlwriter.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/benchmark/internal/catch_benchmark_combined_tu.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_stats.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\benchmark\\detail\\catch_stats.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp"
+},
+{
+  "directory": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-build/src",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/Catch2WithMain.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj -c C:\\Users\\bruec\\cppp\\03\\03_OO\\03_oo\\build\\_deps\\catch2-src\\src\\catch2\\internal\\catch_main.cpp",
+  "file": "C:/Users/bruec/cppp/03/03_OO/03_oo/build/_deps/catch2-src/src/catch2/internal/catch_main.cpp"
+}
+]
