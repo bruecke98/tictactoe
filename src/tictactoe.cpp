@@ -8,6 +8,8 @@
 int main() {
     // TODO
     Board board;
+    HumanPlayer player(Color::CIRCLE);
+    player.performNextMove(board);
     //board[0][0] = Field::CIRCLE;
     /*        board[0][0] = Field::CIRCLE;
             board[0][1] = Field::CROSS;
@@ -29,6 +31,6 @@ int main() {
         std::cout << "weiter" << board.whoWon().has_value() << std::endl;
 
     }
-
-    std::cout << board << std::endl;*/
+*/
+    std::cout << board << std::endl;
 }
