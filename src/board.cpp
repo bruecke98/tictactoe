@@ -50,9 +50,6 @@ std::optional<GameStatus> Board::whoWon() const {
     bool b = false;
     bool c = false;
 
-    //std::cout << "whowon()" << std::endl;
-    //std::cout << "fieldsize" << fields.size() <<std::endl;
-    //std::cout << "fieldsize2" << fields[0].size() <<std::endl;
     for (size_t i = 0; i < fields.size(); i++)
     {
         
@@ -89,7 +86,7 @@ std::optional<GameStatus> Board::whoWon() const {
 }
 
 std::ostream& operator<<(std::ostream& os, const Board& board) {
-    // TODO
+
     for (size_t i = 0; i < 3; i++)
     {
         for (size_t t = 0; t < 3; t++)

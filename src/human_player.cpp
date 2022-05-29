@@ -15,8 +15,7 @@ void HumanPlayer::performNextMove(Board& board) {
     std::cout << "Wo wollen sie ihr Kreuz setzen? (Zaehlend von 0)" << std::endl;
     std::cout << "Eingabeformat: <Zeile> <Spalte>, zum Beispiel 2 0:" << std::endl;
     std::getline(std::cin , x);
-   // std::cin >> x;
-    //std::cout << x.find_first_not_of("0123456789") << std::endl;
+
     for (char c : x)
     {
             std::cout << c << std::endl;
