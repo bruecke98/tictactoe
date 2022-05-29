@@ -294,7 +294,10 @@ CMakeFiles/common.dir/src/game_controller.cpp.obj: ../src/game_controller.cpp \
   C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/ostream.tcc \
   C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/iostream \
   C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/istream \
-  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/istream.tcc
+  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/istream.tcc \
+  C:/TDM-GCC-64/x86_64-w64-mingw32/include/time.h \
+  C:/TDM-GCC-64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/TDM-GCC-64/x86_64-w64-mingw32/include/pthread_time.h
 
 CMakeFiles/common.dir/src/human_player.cpp.obj: ../src/human_player.cpp \
   ../src/human_player.hpp \
@@ -1459,6 +1462,10 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/istream.tcc:
 
 ../src/game_controller.hpp:
 
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/pthread_time.h:
+
 ../src/human_player.cpp:
 
 ../src/human_player.hpp:
@@ -1514,10 +1521,6 @@ C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/iterator:
 C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/locale:
 
 C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/ctime:
-
-C:/TDM-GCC-64/x86_64-w64-mingw32/include/_timeval.h:
-
-C:/TDM-GCC-64/x86_64-w64-mingw32/include/pthread_time.h:
 
 C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h:
 

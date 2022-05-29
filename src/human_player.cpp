@@ -18,7 +18,6 @@ void HumanPlayer::performNextMove(Board& board) {
 
     for (char c : x)
     {
-            std::cout << c << std::endl;
         if (c == '0'){
            if (a==-1){
                a = 0;
@@ -49,17 +48,14 @@ void HumanPlayer::performNextMove(Board& board) {
                return;
            }
         }else if (isspace(c)){
-            std::cout << "empty " << std::endl;
 
         }else{
-            std::cout << "Fehler unten " << std::endl;
             performNextMove(board);
             return;
         }
 
     }
 
-    std::cout << "ENDE" << a << b << std::endl;
     if (board[a][b] == Field::EMPTY){
         if (color == Color::CIRCLE){
             board[a][b] = Field::CIRCLE;
