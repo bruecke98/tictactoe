@@ -144,4 +144,7 @@ CMakeFiles/common.dir/src/normal_player.cpp.obj: \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/locale_facets.tcc \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/basic_ios.tcc \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/ostream.tcc \
- C:\Users\bruec\cppp\03\03_OO\03_oo\src\random_player.hpp
+ C:\Users\bruec\cppp\03\03_OO\03_oo\src\random_player.hpp \
+ C:/TDM-GCC-64/x86_64-w64-mingw32/include/time.h \
+ C:/TDM-GCC-64/x86_64-w64-mingw32/include/_timeval.h \
+ C:/TDM-GCC-64/x86_64-w64-mingw32/include/pthread_time.h
