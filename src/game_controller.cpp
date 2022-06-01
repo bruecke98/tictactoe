@@ -14,15 +14,19 @@ void GameController::play(Player& cross, Player& circle) {
       while (board.whoWon().has_value() == 0) {
         cross.performNextMove(board);
         std::cout << board << std::endl;
-        circle.performNextMove(board);
-        std::cout <<  board <<  std::endl;
+        if(board.whoWon().has_value() == 0){
+          circle.performNextMove(board);
+          std::cout <<  board <<  std::endl;
+        }
       }       
     }else{
         while (board.whoWon().has_value() == 0) {
         cross.performNextMove(board);
         std::cout << board << std::endl;
-        circle.performNextMove(board);
-        std::cout <<  board <<  std::endl;
+        if(board.whoWon().has_value() == 0){
+          circle.performNextMove(board);
+          std::cout <<  board <<  std::endl;
+        }
       } 
     }
     if (board.whoWon() == GameStatus::CIRCLE){

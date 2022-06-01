@@ -196,8 +196,8 @@ CMakeFiles/tasks.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/tests.dir/all: CMakeFiles/common.dir/all
-CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2.dir/all
 CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/all
+CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tests.dir\build.make CMakeFiles/tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tests.dir\build.make CMakeFiles/tests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\bruec\cppp\03\03_OO\03_oo\build\CMakeFiles --progress-num=78,79,80,81,82,83 "Built target tests"
